@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 const Main = styled.main`
   margin-top: 4rem;
-	padding: 0 6rem;
+  padding: 0 6rem;
 `;
 
 const Layout = (props) => (
